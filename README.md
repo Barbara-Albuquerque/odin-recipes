@@ -1,0 +1,1 @@
+Página de receitas bem simples, puramente com HTML, para desafio do The Odin Project.
